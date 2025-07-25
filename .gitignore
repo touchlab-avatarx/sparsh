@@ -138,3 +138,5 @@ slurm/*
 slurm/*
 outputs/*
 checkpoints/*
+
+datasets/
